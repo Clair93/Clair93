@@ -1,13 +1,16 @@
+
 <div align="center">
 
-<p align="center">
-  <img src="https://www.jjalbang.today/files/jjalbox/2016/09/20160901_57c790147b051.gif" width="400" />
-</p>
+  <img src="https://velog.velcdn.com/images%2Ftaeha7b%2Fpost%2Ff44164a0-6b0d-4121-960c-fa5b7bfe3b0a%2F%ED%83%80%EC%9E%90%EC%B9%98%EB%8A%94%EA%B3%A0%EC%96%91%EC%9D%B4.gif" width="400" alt="Typing Cat" />
+
+  <h2>Hi, I'm Jaewon Moon! 👋</h2>
+
+  <p>
+    I'm learning programming languages such as C, C++, C#, and Java.<br>
+    I'm currently developing games and applications.
+  </p>
 
 </div>
-
-
-
 
 
 <!--
