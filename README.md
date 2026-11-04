@@ -1,7 +1,8 @@
 <div align="center">
 
-![움짤 이미지](https://www.jjalbang.today/files/jjalbox/2016/09/20160901_57c790147b051.gif)
-
+<p align="center">
+  <img src="https://www.jjalbang.today/files/jjalbox/2016/09/20160901_57c790147b051.gif" width="400" />
+</p>
 
 </div>
 
